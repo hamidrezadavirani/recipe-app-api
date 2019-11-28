@@ -4,4 +4,6 @@ exclude =
     migrations
     __pycache__
     manage.py
+
+max-line-length = 200
     
